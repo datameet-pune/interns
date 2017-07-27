@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/datameet-pune/interns/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tasks list : [Click here](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Tasks-for-Interns)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This will be the virtual office for all the interns. If you're not on a repo of your own, you may use this environment to post your work files and to do the documentation of your work. This is a place for hosting work-in-progress work. Once completed, it will be forked (copied) over to the main [Datameet Pune](https://github.com/datameet-pune/datameet-pune.github.io) repo as final. On this repo, all the interns have full write access.
 
-### Markdown
+## Queries, Discussion
+Use the **[Issues](https://github.com/datameet-pune/interns/issues)** section to post any queries or discussions. Check it out now and then to answer queries posted by others.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datameet-pune/interns/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Documentation
+Use the **[Wiki](https://github.com/datameet-pune/interns/wiki)** section to post your documentation. We expect you to follow the guidelines as [given here](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Tasks-for-Interns#some-things-to-take-care-of-first).
