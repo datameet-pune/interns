@@ -1,6 +1,6 @@
 ## Welcome
 
-Tasks list : [Click here](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Tasks-for-Interns)
+**Tasks list : [Click here](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Tasks-for-Interns)**
 
 This will be the virtual office for all the interns. If you're not on a repo of your own, you may use this environment to post your work files and to do the documentation of your work. This is a place for hosting work-in-progress work. Once completed, it will be forked (copied) over to the main [Datameet Pune](https://github.com/datameet-pune/datameet-pune.github.io) repo as final. On this repo, all the interns have full write access.
 
