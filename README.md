@@ -9,3 +9,6 @@ Use the **[Issues](https://github.com/datameet-pune/interns/issues)** section to
 
 ## Documentation
 Use the **[Wiki](https://github.com/datameet-pune/interns/wiki)** section to post your documentation. We expect you to follow the guidelines as [given here](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Tasks-for-Interns#some-things-to-take-care-of-first).
+
+## Intern-led projects
+Start one! Want to convert your home state's colleges list into a map? Want to scrape a table from a PDF? Start your project and take help from others to get it done! 
